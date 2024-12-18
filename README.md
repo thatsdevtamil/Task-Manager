@@ -109,20 +109,6 @@ Extend functionality by integrating with backend frameworks like Node.js, Flask,
 
 ---
 
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch (`feature/your-feature-name`).
-3. Commit your changes.
-4. Push your branch and open a Pull Request.
-
----
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 ## Acknowledgments
 

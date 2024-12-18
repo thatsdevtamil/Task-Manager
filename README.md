@@ -41,7 +41,7 @@ To use this project, you need:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/task-manager.git
+   git clone github.com/thatsdevtamil/task-manager.git
    ```
 2. Open the `index.html` file in your browser.
 
